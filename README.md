@@ -27,7 +27,7 @@
 ║  NAME     :  Arkadeep Mondal                 ║
 ║  STATUS   :  B.Tech CSE (AI) • 3rd Semester  ║
 ║  FOCUS    :  Full Stack Development          ║
-║  LOCATION :  India 🌐                        ║
+║  LOCATION :  India                           ║
 ║  INTEREST :  Web Development • DSA           ║
 ║  GOAL     :  Build • Learn • Improve         ║
 ╚══════════════════════════════════════════════╝
@@ -107,21 +107,6 @@ const arkadeep = {
 
 ---
 
-## 🛸 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arkadeepmondal-techie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00fff0&title_color=ff00ff&icon_color=00fff0&text_color=c9d1d9&bg_color=0d0d1a"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadeepmondal-techie&layout=compact&langs_count=8&theme=tokyonight&border_color=00fff0&title_color=ff00ff&text_color=c9d1d9&bg_color=0d0d1a"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arkadeepmondal-techie&theme=tokyonight&border=00fff0&ring=ff00ff&fire=ff00ff&currStreakLabel=00fff0&background=0d0d1a" />
-
-</div>
-
----
-
 ## 🌌 Neural Activity Graph
 
 <!-- Add your contribution/activity graph widget here -->
@@ -133,6 +118,23 @@ const arkadeep = {
 <!-- List certifications, badges, or hackathon wins here -->
 
 ---
+
+## 📡 Open Comms Channel
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=arkadeepmondal-techie&label=👁️%20PROFILE%20VIEWS&color=00fff0&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+<!-- SNAKE GAME CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
 
 <!-- FOOTER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00fff0&height=120&section=footer&text=Thanks+for+visiting+%F0%9F%91%BE&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
