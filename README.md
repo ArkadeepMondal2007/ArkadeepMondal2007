@@ -19,108 +19,139 @@
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ```text
 ╔══════════════════════════════════════════════╗
-║           ⟨⟨  DEVELOPER PROFILE  ⟩⟩         ║
+║           ⟨⟨  DEVELOPER PROFILE  ⟩⟩           ║
 ╠══════════════════════════════════════════════╣
-║  NAME     :  Arkadeep Mondal                 ║
-║  STATUS   :  B.Tech CSE (AI) • 3rd Semester  ║
-║  FOCUS    :  Full Stack Development          ║
-║  LOCATION :  India 🌐                        ║
-║  INTEREST :  Web Development • DSA           ║
-║  GOAL     :  Build • Learn • Improve         ║
+║  NAME     :  Arkadeep Mondal                  ║
+║  STATUS   :  B.Tech CSE (AI) • 3rd Semester   ║
+║  FOCUS    :  Full Stack Development           ║
+║  LOCATION :  India 🌐                         ║
+║  INTEREST :  Web Development • DSA            ║
+║  GOAL     :  Build • Learn • Improve          ║
 ╚══════════════════════════════════════════════╝
+```
+
 <br clear="right"/>
-<div align="center">
-⚡ TECH STACK
-</div>
-🌐 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
-⚙️ Backend & APIs
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
-🗄️ Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
-💻 Programming & Data
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python" /> </p> <p align="center">
 
-NumPy   Pandas   REST APIs   DSA
+---
 
-</p>
-🛠️ Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
-<div align="center">
-🚀 WHAT I WORK WITH
-</div>
-Frontend        → HTML • CSS • JavaScript • React
-Backend         → Node.js • Express.js
-APIs            → REST APIs • JSON • CORS
-Databases       → MySQL • MongoDB
-Programming     → Java • Python
-Data            → NumPy • Pandas
-Problem Solving → Data Structures & Algorithms
-Tools           → Git • GitHub • VS Code
+## ⚡ Tech Stack
 
-<div align="center">
-📂 PROJECTS
-</div>
+**🌐 Frontend**
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react" /></p>
 
-<div align="center">
-🧠 CURRENTLY LEARNING
-</div>
+**⚙️ Backend & APIs**
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
 
+**🗄️ Databases**
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></p>
+
+**💻 Programming & Data**
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python" /></p>
+<p align="center"><b>NumPy · Pandas · REST APIs · DSA</b></p>
+
+**🛠️ Tools**
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p>
+
+---
+
+## 🚀 What I Work With
+
+| Category | Technologies |
+|---|---|
+| Frontend | HTML • CSS • JavaScript • React |
+| Backend | Node.js • Express.js |
+| APIs | REST APIs • JSON • CORS |
+| Databases | MySQL • MongoDB |
+| Programming | Java • Python |
+| Data | NumPy • Pandas |
+| Problem Solving | Data Structures & Algorithms |
+| Tools | Git • GitHub • VS Code |
+
+---
+
+## 📂 Projects
+
+<!-- Fill in your real projects, one row each -->
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| _Project name_ | _One-line description_ | _Tech used_ | [Repo](#) |
+| _Project name_ | _One-line description_ | _Tech used_ | [Repo](#) |
+
+---
+
+## 🧠 Currently Learning
+
+```js
 const arkadeep = {
-    education: "B.Tech Computer Science (AI)",
-    semester: "3rd Semester",
+  education: "B.Tech Computer Science (AI)",
+  semester: "3rd Semester",
 
-    focus: [
-        "Full Stack Development",
-        "React.js",
-        "Node.js & Express.js",
-        "REST APIs",
-        "Data Structures & Algorithms"
-    ],
+  focus: [
+    "Full Stack Development",
+    "React.js",
+    "Node.js & Express.js",
+    "REST APIs",
+    "Data Structures & Algorithms"
+  ],
 
-    databases: [
-        "MySQL",
-        "MongoDB"
-    ],
+  databases: ["MySQL", "MongoDB"],
 
-    dataTools: [
-        "NumPy",
-        "Pandas"
-    ],
+  dataTools: ["NumPy", "Pandas"],
 
-    openTo: [
-        "Internships",
-        "Collaborations",
-        "Hackathons"
-    ]
+  openTo: ["Internships", "Collaborations", "Hackathons"]
 };
+```
+
+---
+
+## 🛸 GitHub Stats
+
 <div align="center">
-🛸 GITHUB STATS
-<br/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arkadeepmondal-techie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00fff0&title_color=ff00ff&icon_color=00fff0&text_color=c9d1d9&bg_color=0d0d1a"/>
 
-  
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arkadeepmondal-techie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00fff0&title_color=ff00ff&icon_color=00fff0&text_color=c9d1d9&bg_color=0d0d1a"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadeepmondal-techie&layout=compact&langs_count=8&theme=tokyonight&border_color=00fff0&title_color=ff00ff&text_color=c9d1d9&bg_color=0d0d1a"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arkadeepmondal-techie&theme=tokyonight&border=00fff0&ring=ff00ff&fire=ff00ff&currStreakLabel=00fff0&background=0d0d1a" /> </div>
-<div align="center">
-🌌 NEURAL ACTIVITY GRAPH
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arkadeepmondal-techie&theme=tokyonight&border=00fff0&ring=ff00ff&fire=ff00ff&currStreakLabel=00fff0&background=0d0d1a" />
 
 </div>
-<div align="center">
-🏆 ACHIEVEMENTS
-<br/>
 
-</div>
-<div align="center">
-📡 OPEN COMMS CHANNEL
+---
 
-<br/> <img src="https://komarev.com/ghpvc/?username=arkadeepmondal-techie&label=👁️%20PROFILE%20VIEWS&color=00fff0&style=for-the-badge" alt="Profile Views" />
+## 🌌 Neural Activity Graph
+
+<!-- Add your contribution/activity graph widget here -->
+
+---
+
+## 🏆 Achievements
+
+<!-- List certifications, badges, or hackathon wins here -->
+
+---
+
+## 📡 Open Comms Channel
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=arkadeepmondal-techie&label=👁️%20PROFILE%20VIEWS&color=00fff0&style=for-the-badge" alt="Profile Views" />
 
 <br/><br/>
 
-<!-- SNAKE GAME CONTRIBUTION GRAPH --> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake.svg"> </picture> <br/> <!-- FOOTER BANNER --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00fff0&height=120&section=footer&text=Thanks+for+visiting+%F0%9F%91%BE&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" /> </div> ```
+<!-- SNAKE GAME CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<!-- FOOTER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00fff0&height=120&section=footer&text=Thanks+for+visiting+%F0%9F%91%BE&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+
+</div>
