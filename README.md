@@ -22,14 +22,14 @@
 
 ```text
 ╔══════════════════════════════════════════════╗
-║           ⟨⟨  DEVELOPER PROFILE  ⟩⟩           ║
+║           ⟨⟨  DEVELOPER PROFILE  ⟩⟩          ║
 ╠══════════════════════════════════════════════╣
-║  NAME     :  Arkadeep Mondal                  ║
-║  STATUS   :  B.Tech CSE (AI) • 3rd Semester   ║
-║  FOCUS    :  Full Stack Development           ║
-║  LOCATION :  India 🌐                         ║
-║  INTEREST :  Web Development • DSA            ║
-║  GOAL     :  Build • Learn • Improve          ║
+║  NAME     :  Arkadeep Mondal                 ║
+║  STATUS   :  B.Tech CSE (AI) • 3rd Semester  ║
+║  FOCUS    :  Full Stack Development          ║
+║  LOCATION :  India 🌐                        ║
+║  INTEREST :  Web Development • DSA           ║
+║  GOAL     :  Build • Learn • Improve         ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -133,23 +133,6 @@ const arkadeep = {
 <!-- List certifications, badges, or hackathon wins here -->
 
 ---
-
-## 📡 Open Comms Channel
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=arkadeepmondal-techie&label=👁️%20PROFILE%20VIEWS&color=00fff0&style=for-the-badge" alt="Profile Views" />
-
-<br/><br/>
-
-<!-- SNAKE GAME CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arkadeepmondal-techie/arkadeepmondal-techie/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
 
 <!-- FOOTER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00fff0&height=120&section=footer&text=Thanks+for+visiting+%F0%9F%91%BE&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
