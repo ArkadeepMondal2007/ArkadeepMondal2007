@@ -74,13 +74,14 @@
 
 ## 📂 Projects
 
-<!-- Fill in your real projects, one row each -->
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| _Project name_ | _One-line description_ | _Tech used_ | [Repo](#) |
-| _Project name_ | _One-line description_ | _Tech used_ | [Repo](#) |
+| **React + Express Authentication System** | A full-stack application with user authentication and frontend-backend communication through REST APIs. | React, Node.js, Express.js, JavaScript | [Repo](YOUR_REPO_LINK) |
+| **Personal Portfolio Website** | A responsive portfolio website showcasing my skills, projects, and education. | HTML, CSS, JavaScript | [Repo](YOUR_REPO_LINK) |
 
 ---
+
+
 
 ## 🧠 Currently Learning
 
