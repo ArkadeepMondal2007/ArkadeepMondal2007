@@ -76,8 +76,8 @@
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **React + Express Authentication System** | A full-stack application with user authentication and frontend-backend communication through REST APIs. | React, Node.js, Express.js, JavaScript | [Repo](YOUR_REPO_LINK) |
-| **Personal Portfolio Website** | A responsive portfolio website showcasing my skills, projects, and education. | HTML, CSS, JavaScript | [Repo](YOUR_REPO_LINK) |
+| **React + Express Authentication System** | A full-stack application with user authentication and frontend-backend communication through REST APIs. | React, Node.js, Express.js, JavaScript | [Repo](https://github.com/ArkadeepMondal2007/Authentication-System-using-express.js-and-MongoDB-) |
+| **Personal Portfolio Website** | A responsive portfolio website showcasing my skills, projects, and education. | HTML, CSS, JavaScript | [Repo](https://github.com/ArkadeepMondal2007/Portfolio-Website) |
 
 ---
 
